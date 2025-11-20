@@ -9,7 +9,7 @@ export default function Home() {
         name: '네온 벽돌깨기 게임',
         alternateName: 'Neon Brick Breaker',
         description: '무료 온라인 벽돌깨기 게임! 네온 스타일의 아케이드 게임으로 돌, 가위, 보 시스템과 무한 모드를 즐겨보세요.',
-        url: 'https://main.d1234567890abc.amplifyapp.com',
+        url: 'https://main.d3rrxbuh5uruzn.amplifyapp.com',
         applicationCategory: 'Game',
         genre: ['Arcade', 'Puzzle', 'Action'],
         operatingSystem: 'Any (Web Browser)',

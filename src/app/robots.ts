@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://main.d1234567890abc.amplifyapp.com/sitemap.xml',
+        sitemap: 'https://main.d3rrxbuh5uruzn.amplifyapp.com/sitemap.xml',
     }
 }

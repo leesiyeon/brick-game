@@ -39,14 +39,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://main.d1234567890abc.amplifyapp.com'), // Amplify URL로 변경 필요
+  metadataBase: new URL('https://main.d3rrxbuh5uruzn.amplifyapp.com'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: "벽돌깨기 게임 | Neon Brick Breaker",
     description: "무료 온라인 벽돌깨기 게임! 네온 스타일의 아케이드 게임으로 돌, 가위, 보 시스템과 무한 모드를 즐겨보세요.",
-    url: 'https://main.d1234567890abc.amplifyapp.com', // Amplify URL로 변경 필요
+    url: 'https://main.d3rrxbuh5uruzn.amplifyapp.com',
     siteName: 'Neon Brick Breaker',
     locale: 'ko_KR',
     type: 'website',
