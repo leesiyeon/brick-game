@@ -381,6 +381,27 @@ export default function GameCanvas() {
                 )}
             </div>
             <p className="mt-6 text-gray-400 text-sm tracking-widest">USE LEFT/RIGHT ARROW KEYS TO MOVE</p>
+
+            {/* Footer with Policy Links */}
+            <footer className="mt-12 pt-8 border-t border-gray-700 w-full max-w-4xl">
+                <div className="flex flex-wrap justify-center gap-6 text-sm">
+                    <a href="/about" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                        About
+                    </a>
+                    <a href="/privacy" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                        Privacy Policy
+                    </a>
+                    <a href="/terms" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                        Terms of Service
+                    </a>
+                    <a href="/contact" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                        Contact
+                    </a>
+                </div>
+                <div className="text-center mt-4 text-gray-500 text-xs">
+                    © 2025 Neon Brick Breaker. All rights reserved.
+                </div>
+            </footer>
         </div>
     );
 }
