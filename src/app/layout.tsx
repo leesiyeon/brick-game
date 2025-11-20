@@ -76,8 +76,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    // Google Search Console 인증 후 추가
-    // google: 'your-google-verification-code',
+    google: 'wb8j80fm07InbtL9gncStJ-MDVJ3WGVqH3RB1Zr5HIg',
   },
 };
 
